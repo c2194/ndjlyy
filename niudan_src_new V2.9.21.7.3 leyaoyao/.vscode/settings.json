@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "MUSIC.C": "cpp",
+        "MAIN.C": "cpp",
+        "PROTOCOL.C": "cpp",
+        "GAME.C": "cpp",
+        "KEY.C": "cpp",
+        "SWITCH_KEY.C": "cpp",
+        "USART.C": "cpp"
+    }
+}
